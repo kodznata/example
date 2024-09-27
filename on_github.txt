@@ -1,1 +1,2 @@
 created a new file on github
+second line to check command
